@@ -1,0 +1,15 @@
+{
+  "data" : "it is living in the sea",
+  "yes" : {
+    "data" : "it is mammal",
+    "yes" : {
+      "data" : "a dolphin"
+    },
+    "no" : {
+      "data" : "a shark"
+    }
+  },
+  "no" : {
+    "data" : "a cat"
+  }
+}
